@@ -6,7 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script src="https://kit.fontawesome.com/ff98f8ebe6.js" crossorigin="anonymous"></script>
-    @vite('resources/css/app.css')
+    @vite('public/css/app.css')
     @vite('public/js/app.js')
 </head>
 
